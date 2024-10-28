@@ -1,11 +1,13 @@
-## Hi there 👋
+## Hi, I'm Tiago 👋
 
+- 👨‍🔬 Researcher at [INESC TEC](https://www.inesctec.pt/pt), where I specialize in applying Machine Learning to the renewable energy sector.
+- 🎓 Studied Mechanical Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
+- 🌱 Currently learning about data analytics and data visualization.
 <!--
 **tolitei/tolitei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
