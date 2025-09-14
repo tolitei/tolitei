@@ -1,6 +1,7 @@
 ## Hi, I'm Tiago 👋
 
-- 👨‍🔬 Researcher at [INESC TEC](https://www.inesctec.pt/pt), where I specialize in applying Machine Learning to the renewable energy sector.
+- :man_technologist: Supply Specialist at [Tesla](https://www.tesla.com/), developing Python and SQL solutions to improve inventory management decisions.
+- 👨‍🔬 Previous Job: Researcher at [INESC TEC](https://www.inesctec.pt/pt), where I specialize in applying Machine Learning to the renewable energy sector.
 - 🎓 Studied Mechanical Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial).
 - 🌱 Currently learning about data analytics and data visualization.
 <!--
